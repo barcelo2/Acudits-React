@@ -1,0 +1,26 @@
+.weather {
+  padding-top: 0.6em;
+  font-size: 1.2em;
+}
+
+.card {
+  margin-top: 8rem;
+  min-height: 30vh;
+  border-radius: 1rem !important;
+}
+
+.card-title {
+  margin-top: 2rem;
+  font-size: 2.3em;
+}
+
+.card-text {
+  margin-top: 7rem;
+  font-size: 1.3em;
+}
+
+.btn {
+  margin-top: 4.5rem;
+  font-size: 1em;
+ 
+}
